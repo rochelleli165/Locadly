@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1066116333121",
+    "project_id": "skipper-21480",
+    "storage_bucket": "skipper-21480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066116333121:android:9454867e83dbfa34b650c0",
+        "android_client_info": {
+          "package_name": "com.example.locadly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066116333121-unjc7mtlrpqd0un9eogf9hi5g85rpan9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUH3OB83MRZVRf0ev4fm6_0dVdAJXCcSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066116333121-ig1ce5h1a1kbjvre9sb13os19tqb2to0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066116333121-4c4dsquvm510comchodor9emgb16bmsj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locadly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
